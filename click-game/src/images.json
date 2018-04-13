@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "braids",
+    "image": "./components/ImageCard/img/braids.jpg"
+  },
+  {
+    "id": 2,
+    "name": "kiddo",
+    "image": "./components/ImageCard/img/kiddo.jpg"
+  },
+  {
+    "id": 3,
+    "name": "look back",
+    "image": "./components/ImageCard/img/look-bk.jpg"
+  },
+  {
+    "id": 4,
+    "name": "okcurr",
+    "image": "./components/ImageCard/img/okcurr.jpg"
+  },
+  {
+    "id": 5,
+    "name": "pat",
+    "image": "./components/ImageCard/img/pat.jpg"
+  },
+  {
+    "id": 6,
+    "name": "thinkin",
+    "image": "./components/ImageCard/img/thinkin.png"
+  },
+  {
+    "id": 7,
+    "name": "wow",
+    "image": "./components/ImageCard/img/wow.jpg"
+  },
+  {
+    "id": 8,
+    "name": "wrap",
+    "image": "./components/ImageCard/img/wrap.jpg"
+  }
+]
