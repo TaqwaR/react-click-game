@@ -2,17 +2,17 @@ import React from "react";
 import "./ImageCard.css";
 
 const ImageCard = function (props) {
-  <div className="card">
+  return <div className="card">
     <div className="img-container">
-      <img alt={prop.name} src={props.image} />
+      <img alt={props.name} src={props.image} />
     </div>
-    {/* image randomizing function goes here ??*/}
-    <span onClick={
+    {/* image randomizing function goes here ?? */}
+    {/* <span onClick={
       function() {
         props.randomizeImage()
       }
       className="randomize"
-    } />
+    } /> */}
   </div>
 }
 
